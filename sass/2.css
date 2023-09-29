@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul, li {
+  list-style: none;
+}
+
+body {
+  font-family: "Gilroy-Bold", sans-serif;
+}
+
+.p1 {
+  background-image: url(/img/Rectangle\ 1441.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.p1 select {
+  border: none;
+  background-color: inherit;
+  outline: none;
+}
+.p1 input {
+  max-width: 200px;
+  margin: 0 auto;
+  border: none;
+  outline: none;
+  color: white;
+}
+.p1 .header h1 {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.p1 .header p {
+  margin: 0 auto;
+  max-width: 400px;
+}
+.p1 .header input {
+  border-radius: 40px;
+}
+
+.p3 .ppp {
+  max-width: 300px;
+  border-radius: 50px;
+  align-items: center;
+  margin: 0 auto;
+}
+.p3 .pp {
+  background-color: white;
+  border-radius: 30px;
+}
+.p3 a {
+  border-radius: 50%;
+}/*# sourceMappingURL=2.css.map */
